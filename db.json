@@ -77,10 +77,12 @@
     ],
   "admins": [
     {
+      "id": 1,
       "name": "emil",
       "password": "admin"
     },
     {
+      "id": 2,
       "name": "ibrahim",
       "password": "admin"
     },
