@@ -4,37 +4,43 @@
       "id": 1,
       "name": "Thermo Ball Etip Gloves",
       "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular1.png",
-      "price": 45743
+      "price": 45743,
+      "quantity": 10
     },
     {
       "id": 2,
       "name": "Thermo Ball Etip Gloves",
       "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular2.png",
-      "price": 45743
+      "price": 45743,
+      "quantity": 8
     },
     {
       "id": 3,
       "name": "Thermo Ball Etip Gloves",
       "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular3.png",
-      "price": 45743
+      "price": 45743,
+      "quantity": 15
     },
     {
       "id": 4,
       "name": "Thermo Ball Etip Gloves",
       "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular4.png",
-      "price": 45743
+      "price": 45743,
+      "quantity": 5
     },
     {
       "id": 5,
       "name": "Thermo Ball Etip Gloves",
       "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular5.png",
-      "price": 45743
+      "price": 45743,
+      "quantity": 20
     },
     {
       "id": 6,
       "name": "Thermo Ball Etip Gloves",
       "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular6.png",
-      "price": 45743
+      "price": 45743,
+      "quantity": 12
     }
   ],
   "choices": [
@@ -73,6 +79,50 @@
       "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/new_product3.png",
       "name": "Thermo Ball Etip Gloves",
       "price": 45743
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Thermo Ball Etip Gloves",
+      "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular1.png",
+      "price": 45743,
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "name": "Thermo Ball Etip Gloves",
+      "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular2.png",
+      "price": 45743,
+      "quantity": 8
+    },
+    {
+      "id": 3,
+      "name": "Thermo Ball Etip Gloves",
+      "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular3.png",
+      "price": 45743,
+      "quantity": 15
+    },
+    {
+      "id": 4,
+      "name": "Thermo Ball Etip Gloves",
+      "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular4.png",
+      "price": 45743,
+      "quantity": 5
+    },
+    {
+      "id": 5,
+      "name": "Thermo Ball Etip Gloves",
+      "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular5.png",
+      "price": 45743,
+      "quantity": 20
+    },
+    {
+      "id": 6,
+      "name": "Thermo Ball Etip Gloves",
+      "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular6.png",
+      "price": 45743,
+      "quantity": 12
     }
   ],
   "admins": [
