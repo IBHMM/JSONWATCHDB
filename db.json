@@ -74,5 +74,15 @@
         "name": "Thermo Ball Etip Gloves",
         "price": 45743
       }
-    ]
+    ],
+  "admins": [
+    {
+      "name": "emil",
+      "password": "admin"
+    },
+    {
+      "name": "ibrahim",
+      "password": "admin"
+    },
+  ]
 }
